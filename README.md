@@ -1,1 +1,1 @@
-loto application
+user text box use define
